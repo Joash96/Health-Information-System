@@ -53,6 +53,9 @@ cd health-info-system
 # Install dependencies
 composer install
 
+# Install node dependencies
+npm install
+
 # Set up environment
 cp .env.example .env
 php artisan key:generate
