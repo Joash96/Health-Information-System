@@ -117,7 +117,7 @@ You can also sponsor the development to help it grow faster and support future i
 
 You can check out the project overview and technical walk-through in the PowerPoint presentation below:
 
-📽️ [Download Presentation (PPTX)]([link-to-your-pptx-file](https://hospital.pulselinesolutions.co.ke/public/assets/Basic%20Health%20Information%20System.pptx))
+📽️ [Download Presentation (PPTX)]([https://hospital.pulselinesolutions.co.ke/public/assets/Basic%20Health%20Information%20System.pptx])
 
 Make sure to view it in presentation mode for the best experience.
 
