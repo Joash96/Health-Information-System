@@ -37,7 +37,7 @@ This is a table of contents for your project. It helps the reader navigate throu
 - [Usage](#usage)
 - [Development](#development)
 - [Contribute](#contribute)
-- [Powerpoint Presentation](#powerpoint)
+- [Powerpoint Presentation](#presentation)
 - [License](#license)
 
 
